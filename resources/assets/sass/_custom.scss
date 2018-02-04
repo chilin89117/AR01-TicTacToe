@@ -1,0 +1,37 @@
+.profile-pic img {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.profile-info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.profile-info .profile-name {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.profile-info .profile-score {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.list-group-item .user-info {
+  position: relative;
+  top: 15px;
+}
+
+.list-group-item .img-responsive {
+  float: left;
+  margin-right: 20px;
+}
+
+.panel-heading-custom {
+  padding-bottom: 23px;
+}
+
+a#exit-button {
+  margin-bottom: 20px;
+}
