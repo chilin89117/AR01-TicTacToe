@@ -33,8 +33,6 @@
 
 ### `board.blade.php`
 - Use `<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>` in `head.blade.php`, version 5 of FA did not work
-
-### `board.blade.php`
 - `GameController@board` sets up board based on status of game
 - When player clicks a box,
   - if the game is still in progress,
